@@ -1,0 +1,15 @@
+.bloc {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0e2439;
+  position: relative;
+}
+
+.h1 {
+  color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
