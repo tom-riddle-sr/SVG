@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SVG/static/css/main.b6a5f4f8.css",
+    "main.js": "/SVG/static/js/main.5ad7f95b.js",
+    "index.html": "/SVG/index.html",
+    "main.b6a5f4f8.css.map": "/SVG/static/css/main.b6a5f4f8.css.map",
+    "main.5ad7f95b.js.map": "/SVG/static/js/main.5ad7f95b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6a5f4f8.css",
+    "static/js/main.5ad7f95b.js"
+  ]
+}
